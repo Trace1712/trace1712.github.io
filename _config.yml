@@ -7,7 +7,7 @@ description: "写一句你想写的话"
 keyword: "我的博客"
 url: "http://Trace1712.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Trace1712/Trace1712.github.io.git" # you code repository
+github_repo: "https://github.com/Trace1712/wucy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
