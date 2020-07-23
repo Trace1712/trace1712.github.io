@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      Hello
-date:       2020-7-23
-author:     wucy
+title:      This is title
+subtitle:   This is subtitle
+date:       2019-04-21
+author:     Wang Pei
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
-    - refincement learning
+    - Tylor
 ---
 
 
