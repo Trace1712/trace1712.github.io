@@ -1,22 +1,19 @@
 ---
 layout:     post
-title:      Install TensorFlow-GPU by Anaconda (conda install tensorflow-gpu)
-subtitle:   It might be the simplest way to install Tensorflow or Tensorflow-GPU by conda install in the conda environment
-date:       2019-03-29
-author:     Wang Pei
-header-img: img/art-Anaconda-TensorFlow.jpg
+title:      Reinforcement  Learning An Introduction Second 
+subtitle:   second section
+date:       2020-07-24
+author:     wucy
+header-img: img/yu.png
 catalog: true
 tags:
-    - ubuntu
-    - TensorFlow
-    - 深度学习
-    - CUDA
+    - reinforcementlearning
 ---
 
 
-# Install TensorFlow-GPU by Anaconda (conda install tensorflow-gpu)
+# Reinforcement  Learning An Introduction
 
-It might be the simplest way to install Tensorflow or Tensorflow-GPU by conda install in the conda environment  
+<center>第二章</center>
 --
 
 Nowadays, there are many tutorials that instruct how to install tensorflow or tensorflow-gpu. However, some people may feel it too complex just like me, because in those ways, you should download and install [NVIDIA drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us), and then download and install [CUDA](https://developer.nvidia.com/cuda-downloads) (users need to pay attention to the version), afterwards you may sign an agreement and download cuDNN in [NVIDIA Developer](https://developer.nvidia.com/cudnn). Next, install python, and pip install tensorflow-gpu and so on. It's not esay for developer to do these, let alone it might causes some other error such as **version not match**, or **conflict between other python libraries** and so on. Moreover, if you want to [install tensorflow by compilation](https://www.tensorflow.org/install/gpu), it may take much more time.  

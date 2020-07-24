@@ -7,7 +7,7 @@ author:     wucy
 header-img: img/yu.png
 catalog: true
 tags:
-    - reinforcement learning
+    - reinforcementlearning
 ---
 
 # Reinforcement  Learning An Introduction
