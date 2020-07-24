@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Reinforcement  Learning An Introduction Second Edition 
+title:      Reinforcement  Learning An Introduction Second Edition :
 subtitle:   第二章
 date:       2020-7-23
 author:     wucy
@@ -70,7 +70,7 @@ $$
 
 ### Exercise2.6
 
-![](../img/ex25.png)
+![](img/ex25.png)
 
 ****
 
@@ -112,7 +112,7 @@ $$
 
 **UCB在第11步时有一个明显的尖峰（10臂），为什么？提示：如果c=1，那么这个尖峰就不会那么突出了**
 
-![ex2.8](../img/ex28.png)
+![ex2.8](img/ex28.png)
 
 $$
 A_{t}=argmax[Q_{t}(a)+c\sqrt{\frac{ln(t)}{N_{t}(a)}}]
