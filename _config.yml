@@ -1,28 +1,28 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
-header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "写一句你想写的话"
-keyword: "我的博客"
+title: wucy's Blog
+SEOTitle: 吴淳阳的博客 | wucy's Blog
+header-img: img/title.jpg
+email: wucy1712@163.com
+description: "nothing"
+keyword: "吴淳阳的博客"
 url: "http://Trace1712.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Trace1712/trace1712.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I'll catch up with you"
+sidebar-avatar: /img/yukino.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     暂无
-zhihu_username:     暂无
-github_username:    暂无
-facebook_username:  暂无
-jianshu_username:   暂无
+#zhihu_username:     暂无
+#github_username:    暂无
+#facebook_username:  暂无
+#jianshu_username:   暂无
 #twitter_username:   暂无
 
 
