@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Reinforcement  Learning An Introduction Second Edition :
+title:      Reinforcement  Learning An Introduction 
 subtitle:   第二章
-date:       2020-7-23
+date:       2020-7-24
 author:     wucy
 header-img: img/yu.png
 catalog: true

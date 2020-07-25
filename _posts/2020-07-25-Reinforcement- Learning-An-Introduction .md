@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Reinforcement Learning An Introduction Third Edition
+title:      Reinforcement Learning An Introduction 
 subtitle:   第三章
 date:       2020-07-25
 author:     wucy
