@@ -1,6 +1,7 @@
-```text
+---
 layout:     post
 title:      Reinforcement Learning An Introduction 
+subtitle:   This is introduction
 subtitle:   第四章
 date:       2020-07-27
 author:     wucy
@@ -8,7 +9,10 @@ header-img: img/yu.jpg
 catalog: true
 tags:
     - reinforcementlearning
-```
+---
+
+
+# 简介
 
 # <center>第四章</center>
 
