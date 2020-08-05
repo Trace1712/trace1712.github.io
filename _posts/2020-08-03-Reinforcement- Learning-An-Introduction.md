@@ -131,5 +131,5 @@ Q(S_{t},A_{t})\leftarrow Q(S_{t},A_{t})+\alpha[R_{t+1}+\gamma E[Q(S_{t+1})|S_{t+
 R_{t+1}+\gamma\sum_{a}\pi(a|S_{t+1})Q(S_{t+1},a)-Q(S_{t},A_{t})\\
 双重期望的SARSA将保留两个Q数组，并以相同的概率选择每个时间步更新其中一个\\
 通过一个\epsilon策略，我们会增加Q_1(S_{t},A_{t})通过\\
-\alpha[R_{t+1}+\gamma(\frac{\epsilon}{|\mathcal{A}(a)|}\sum_{a}Q_{2}(S_{t+1},a)+(1-\epsilon)\max_{a}\{Q_{2}(S_{t+1},a)\})-Q_1(S_t,A_t)]
+\alpha[R_{t+1}+\gamma(\frac{\epsilon}{|\mathcal{A}(a)|}\sum_{a}Q_{2}(S_{t+1},a)+(1-\epsilon)\max_{a}\{Q_{2}(S_{t+1},a)\})-Q_1(S_t,A_t)]
 $$
