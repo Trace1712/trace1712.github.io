@@ -71,7 +71,7 @@ $$
 &设\tau=min(t+n,T)-1\\
 &\sum_{k=t}^{\tau}\gamma^{k-t}[R_{t+1}+\gamma Q_{k}(S_{k+1},A_{k+1})-Q_{k-1}(S_k,A_k)]\\
 &=\sum_{k=t}^\tau\gamma^{k-t}R_{t+1}+\gamma\sum_{k=t}^{\tau}\gamma^{k-t}Q_{k}(S_{k+1},A_{k+1}-\sum_{k=t}^{\tau}\gamma^{k-t}Q_{k-1}(S_{k},A_{k}))\\
-&=G_{t:t+n}-\prod\{{t+n<T}\}\gamma^nQ_{t+n-1}(S_{t+n},A_{t+n})+\gamma^{\tau}Q_{\tau}(S_{\tau},A_{\tau})-Q_{t-1}(S_{t},A_{t})\\
+&=G_{t:t+n}-\prod{\{t+n<T\}}\gamma^nQ_{t+n-1}(S_{t+n},A_{t+n})+\gamma^{\tau}Q_{\tau}(S_{\tau},A_{\tau})-Q_{t-1}(S_{t},A_{t})\\
 &=G_{t:t+n}-Q_{t-1}(S_{t},A_{t})
 \end{align}
 $$
