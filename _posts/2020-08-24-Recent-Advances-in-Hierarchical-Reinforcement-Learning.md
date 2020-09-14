@@ -2,7 +2,7 @@
 layout:     post
 title:      2020-08-24-Recent-Advances-in-Hierarchical-Reinforcement-Learning
 subtitle:   paper
-date:       2020-08-23
+date:       2020-08-24
 author:     wucy
 header-img: img/yu.jpg
 catalog: true
